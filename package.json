@@ -10,8 +10,10 @@
   "author": "Erick Mutwiri",
   "license": "ISC",
   "dependencies": {
+    "@faker-js/faker": "^8.4.1",
     "async": "^3.2.5",
     "aws-sdk": "^2.1571.0",
+    "moment": "^2.30.1",
     "underscore": "^1.13.6"
   }
 }
